@@ -1,6 +1,10 @@
 SMF
 ===
 
+## Agrilyst Changes
+- Removed dependency on rbac and solaris support lines in metadata
+
+
 ## Description
 
 Service Management Facility (SMF) is a tool in many Illumos and Solaris-derived operating systems
